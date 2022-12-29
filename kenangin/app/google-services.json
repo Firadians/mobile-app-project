@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386315238712",
+    "project_id": "kenangin-38c0c",
+    "storage_bucket": "kenangin-38c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386315238712:android:2f3923071f50514820d5cd",
+        "android_client_info": {
+          "package_name": "com.example.kenangin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386315238712-78bh60df56o93b1rcke12gplpb468aur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRVMwtuT80bPEdLbsNWznoMq4kRvmIdT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386315238712-78bh60df56o93b1rcke12gplpb468aur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
